@@ -113,3 +113,19 @@ p > span {
 p.text {
     margin: 5px 0;
 }
+
+div > button {
+    width: 120px;
+    height: 30px;
+    background-color: red;
+    color: black;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+    font-size: 1rem;
+}
+
+div > button:hover {
+    cursor: pointer;
+    background-color: black;
+    color: red;
+}

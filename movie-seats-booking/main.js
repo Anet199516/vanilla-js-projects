@@ -4,6 +4,7 @@ const seats = document.querySelectorAll('.row .seat:not(.occupied)');
 const count = document.getElementById('count');
 const total = document.getElementById('total');
 const movieSelect = document.getElementById('movie');
+const clearBtn = document.getElementById('clear-btn');
 
 let moviePrice = +movieSelect.value;
 
@@ -72,6 +73,13 @@ container.addEventListener('click', (event) => {
 
     updateSelectedCount();
 
+})
+
+//clear all
+clearBtn.addEventListener('click', () => {
+    clearData();
+
+    updateSelectedCount();
 })
 
 // set initial state (count/total)
