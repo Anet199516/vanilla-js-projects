@@ -4,3 +4,5 @@
 [Movie-seats-booking demo](https://anet199516.github.io/vanilla-js-projects/movie-seats-booking/)
 
 [Custom-video-player demo](https://anet199516.github.io/vanilla-js-projects/custom-video-player/)
+
+[Exchange-rate demo](https://anet199516.github.io/vanilla-js-projects/exchange-rate/)
