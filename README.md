@@ -8,3 +8,5 @@
 [Exchange-rate demo](https://anet199516.github.io/vanilla-js-projects/exchange-rate/)
 
 [DOM-array-methods](https://anet199516.github.io/vanilla-js-projects/dom-array-methods/)
+
+[menu-slider-modal](https://anet199516.github.io/vanilla-js-projects/menu-slider-modal/)
