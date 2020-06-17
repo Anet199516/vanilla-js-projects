@@ -168,8 +168,40 @@ button:focus {
 }
 
 .modal-content {
-    padding: 20px;
+    padding: 0 15px 15px 15px;
 }
+
+.modal-img img {
+    width: 100%;
+    height: 10rem;
+}
+
+.modal-buttons {
+    display: flex;
+    justify-content: center;
+    border-top: 1px solid lightgray;
+}
+
+.modal-buttons button {
+    width: 50%;
+    border-radius: 0;
+    background: transparent;
+    color: black;
+    font-size: 1.5rem;
+}
+
+.modal-buttons button:hover {
+    cursor: pointer;
+    opacity: 0.8;
+    background-color: #cdccd5;
+}
+
+.modal-buttons > button:first-child {
+    border-right: 1px solid lightgray;
+    color: red;
+}
+
+
 
 .modal-form > div {
     margin: 15px 0;
@@ -187,6 +219,7 @@ button:focus {
 
 .close-btn {
     background: transparent;
+    color: #ffffff;
     font-size: 25px;
     position: absolute;
     top: 0;
