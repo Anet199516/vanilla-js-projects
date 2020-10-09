@@ -12,3 +12,5 @@
 [menu-slider-modal](https://anet199516.github.io/vanilla-js-projects/menu-slider-modal/)
 
 [hangman-game](https://anet199516.github.io/vanilla-js-projects/hangman-game)
+
+[Meal-finder](https://anet199516.github.io/vanilla-js-projects/meal-finder)
