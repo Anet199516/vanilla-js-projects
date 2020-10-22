@@ -14,3 +14,5 @@
 [hangman-game](https://anet199516.github.io/vanilla-js-projects/hangman-game)
 
 [Meal-finder](https://anet199516.github.io/vanilla-js-projects/meal-finder)
+
+[Expanse-tracker](https://anet199516.github.io/vanilla-js-projects/expanse-tracker)
