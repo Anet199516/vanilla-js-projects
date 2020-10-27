@@ -18,3 +18,5 @@
 [Expanse-tracker](https://anet199516.github.io/vanilla-js-projects/expanse-tracker)
 
 [Music-player](https://anet199516.github.io/vanilla-js-projects/music-player)
+
+[Infinite-scroll](https://anet199516.github.io/vanilla-js-projects/fetch-infinite-scroll)
