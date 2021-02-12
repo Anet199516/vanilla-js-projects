@@ -22,3 +22,5 @@
 [Infinite-scroll](https://anet199516.github.io/vanilla-js-projects/fetch-infinite-scroll)
 
 [Typing game](https://anet199516.github.io/vanilla-js-projects/typing-game)
+
+[Memory card](https://anet199516.github.io/vanilla-js-projects/memory-card)
