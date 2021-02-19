@@ -24,3 +24,5 @@
 [Typing game](https://anet199516.github.io/vanilla-js-projects/typing-game)
 
 [Memory card](https://anet199516.github.io/vanilla-js-projects/memory-card)
+
+[Lyrics search app](https://anet199516.github.io/vanilla-js-projects/lyrics-search-app)
