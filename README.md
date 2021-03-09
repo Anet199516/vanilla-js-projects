@@ -26,3 +26,5 @@
 [Memory card](https://anet199516.github.io/vanilla-js-projects/memory-card)
 
 [Lyrics search app](https://anet199516.github.io/vanilla-js-projects/lyrics-search-app)
+
+[Relaxer app](https://anet199516.github.io/vanilla-js-projects/relaxer-app)
