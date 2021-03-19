@@ -30,3 +30,5 @@
 [Relaxer app](https://anet199516.github.io/vanilla-js-projects/relaxer-app)
 
 [Breakout game](https://anet199516.github.io/vanilla-js-projects/breakout-game)
+
+[New Year countdown](https://anet199516.github.io/vanilla-js-projects/new-year-countDown)
