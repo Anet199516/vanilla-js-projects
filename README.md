@@ -34,3 +34,5 @@
 [New Year countdown](https://anet199516.github.io/vanilla-js-projects/new-year-countDown)
 
 [Sortable List](https://anet199516.github.io/vanilla-js-projects/sortable-list)
+
+[Speak recognition game](https://anet199516.github.io/vanilla-js-projects/speak-game)
